@@ -14,7 +14,7 @@ a îngrijirii personale și a machiajului.
 **Skincare:** cremă hidratantă
 *Make-up:* rimel și gloss
 ## Image
-![Machiaj](https://plus.unsplash.com/premium_photo-1684407616442-8d5a1b7c978e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+![Machiaj](images/beauty.jpg)
 
 ## Sfaturi de frumusețe
 Frumusețea începe cu îngrijirea
